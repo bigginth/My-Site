@@ -30,6 +30,7 @@ h3 {
     height: 200px;
     width: 200px;
     border-radius: 100%;
+    margin-top:20px;
 }
 .bottom-container {
     background-color:#0F4C75;
